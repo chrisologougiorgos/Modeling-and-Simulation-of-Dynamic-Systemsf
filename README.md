@@ -1,5 +1,5 @@
 
-# System Modeling and Simulation – Spring Semester 2025
+# System Modeling and Simulation – ECE AUTH 2024-2025
 
 This repository contains the implementation and report of a programming assignment developed for the course **System Modeling and Simulation** at the School of Electrical and Computer Engineering, Aristotle University of Thessaloniki (AUTH), during the **Spring Semester of the academic year 2024–2025**.
 
